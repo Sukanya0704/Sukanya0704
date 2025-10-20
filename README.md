@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hey there, I'm Sukanya Gupta</h1>
 
 <p align="center">
-  <b>3rd Year Computer Engineering Student | Web Developer | Machine Learning Enthusiast</b>
+  <b>3rd Year Computer Engineering Student | Web Developer | Data Science Enthusiast</b>
 </p>
 
 ---
 
 ### 💻 About Me
-- 🌱 Exploring advanced concepts in **Web Development** and **Machine Learning**  
+- 🌱 Exploring advanced concepts in **Web Development**, **Machine Learning**, **Data Science** and **DSA** 
 - 🧠 Passionate about building intelligent, user-focused applications  
 - 📊 Love experimenting with **Jupyter Notebooks**, **ML models**, and **data-driven projects**  
 - ⚡ Always eager to learn and implement emerging tech  
@@ -16,8 +16,8 @@
 
 ### 🛠️ Tech Stack
 **Languages:** Python, C++, JavaScript, HTML, CSS  
-**Frameworks & Libraries:** React, Node.js, Flask, Scikit-Learn, TensorFlow, NumPy, Pandas  
-**Tools:** Git, GitHub, Jupyter Notebook, VS Code, Postman  
+**Frameworks & Libraries:** React, Node.js, Django, BERT, Scikit-Learn, Spacy, Matplotlib, TensorFlow, NumPy, Pandas  
+**Tools:** Git, GitHub, Jupyter Notebook, VS Code, Postman, Figma 
 
 ---
 
