@@ -31,7 +31,7 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/sukanya-gupta" target="_blank">
+  <a href="https://www.linkedin.com/in/sukanya-gupta-b40a132a2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sukanyagupta0730@gmail.com">
